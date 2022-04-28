@@ -1,0 +1,14 @@
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.csproj.AssemblyReference.cache
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.AssemblyInfoInputs.cache
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.AssemblyInfo.cs
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.csproj.CoreCompileInputs.cache
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\bin\Debug\netcoreapp3.1\SpringBootCommunication.exe
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\bin\Debug\netcoreapp3.1\SpringBootCommunication.deps.json
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\bin\Debug\netcoreapp3.1\SpringBootCommunication.runtimeconfig.json
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\bin\Debug\netcoreapp3.1\SpringBootCommunication.runtimeconfig.dev.json
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\bin\Debug\netcoreapp3.1\SpringBootCommunication.dll
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\bin\Debug\netcoreapp3.1\SpringBootCommunication.pdb
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.dll
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.pdb
+C:\Users\illya\source\repos\SpringBootCommunication\SpringBootCommunication\obj\Debug\netcoreapp3.1\SpringBootCommunication.genruntimeconfig.cache
